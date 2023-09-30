@@ -2,6 +2,8 @@
 
 ## Project in Action:
 
+[Jobster](https://jobster-project-app.netlify.app/landing)
+
 ## Introduction
 
 Jobster's main idea is to streamline your job search and application process. With Jobster, you can effortlessly keep track of all your job applications, interviews, stats, etc. in one centralized platform.

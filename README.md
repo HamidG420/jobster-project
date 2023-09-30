@@ -2,7 +2,7 @@
 
 ## Project in Action:
 
-[Jobster](https://jobster-app-project.netlify.app/landing)
+[Jobster](https://jobster-app-project.netlify.app)
 
 ## Introduction
 

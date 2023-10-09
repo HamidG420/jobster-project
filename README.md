@@ -1,6 +1,6 @@
 # Jobster
 
-## Project in Action:
+## Project in Action
 
 [Jobster](https://jobster-project-app.netlify.app/landing)
 
